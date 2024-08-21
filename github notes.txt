@@ -2,3 +2,8 @@ if stuck after running a git command hit q to exit
 
 ***** git notes *****
 https://unwiredlearning.notion.site/Git-GitHub-Resources-15b88c990e484f9880046db7acffce76
+
+***** git hub token *****
+
+
+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
